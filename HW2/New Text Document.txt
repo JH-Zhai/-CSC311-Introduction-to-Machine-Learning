@@ -1,0 +1,134 @@
+
+learning rate:  0.001 num_iterations:  200 
+
+train_fce:  0.6021744655294206 train_class_error:  0.09375 
+
+valid_fce:  0.6240433703425651 valid_class_error:  0.28                 
+
+-----------------------------------------------------------------------
+
+learning rate:  0.001 num_iterations:  400 
+
+train_fce:  0.5362472763431084 train_class_error:  0.08125000000000004 
+
+valid_fce:  0.5750448475582326 valid_class_error:  0.28                 ___________________
+
+-----------------------------------------------------------------------
+
+learning rate:  0.005 num_iterations:  200 
+
+train_fce:  0.4156085334017178 train_class_error:  0.0625 
+
+valid_fce:  0.485308068149917 valid_class_error:  0.16000000000000003 
+
+-----------------------------------------------------------------------
+
+learning rate:  0.005 num_iterations:  400 
+
+train_fce:  0.3162127134285941 train_class_error:  0.050000000000000044 
+
+valid_fce:  0.40748387135663244 valid_class_error:  0.16000000000000003 
+
+-----------------------------------------------------------------------
+
+learning rate:  0.01 num_iterations:  200 
+
+train_fce:  0.31607224716710963 train_class_error:  0.050000000000000044 
+
+valid_fce:  0.40741567620035807 valid_class_error:  0.16000000000000003 
+
+-----------------------------------------------------------------------
+
+
+learning rate:  0.01 num_iterations:  400 
+
+train_fce:  0.22498353496344894 train_class_error:  0.03749999999999998 
+
+valid_fce:  0.33141529907669176 valid_class_error:  0.12                _________________
+
+-----------------------------------------------------------------------
+best hyperparameters on mnist_train:
+
+learning rate:  0.01 num_iterations:  600  weights: all zeros
+
+train final cross entropy:  0.1791036205340543  train classification error:  0.012499999999999956 
+
+valid final cross entropy:  0.29271651738589105 valid classification error:  0.09999999999999998 _________________________________________________________
+
+test final cross entropy:  0.2643556917798134   test classification error:  0.07999999999999996 
+-----------------------------------------------------------------------
+
+learning rate:  0.01 num_iterations:  800 
+
+train_fce:  0.15050511598405483 train_class_error:  0.0 
+
+valid_fce:  0.26929306775000034 valid_class_error:  0.09999999999999998 
+
+-----------------------------------------------------------------------
+
+learning rate:  0.1 num_iterations:  200 
+
+train_fce:  0.08075611085213133 train_class_error:  0.0 
+
+valid_fce:  0.21857461101777007 valid_class_error:  0.12                ___________________
+
+-----------------------------------------------------------------------
+
+learning rate:  0.1 num_iterations:  400 
+
+train_fce:  0.047271234586943295 train_class_error:  0.0 
+
+valid_fce:  0.20011280321224822 valid_class_error:  0.12 
+
+-----------------------------------------------------------------------
+
+
+
+
+_______________________________________________________________________________________________________________________________
+
+
+
+
+
+best hyperparameters on mnist_train:
+
+learning rate:  0.01 num_iterations:  600  weights: all zeros
+
+train final cross entropy:  0.1791036205340543  train classification error:  0.012499999999999956 
+
+valid final cross entropy:  0.29271651738589105 valid classification error:  0.09999999999999998 
+
+test final cross entropy:  0.2643556917798134   test classification error:  0.07999999999999996
+
+
+
+best hyperparameters on mnist_train_samll:
+ 
+learning rate:  0.01 num_iterations:  600  weights: all zeros
+
+train_fce:  0.04092173692963222 train_class_error:  0.0 
+
+valid_fce:  0.6937200510582616 valid_class_error:  0.3400000000000001 
+
+test_fce:  0.5800816326928813 test_class_error:  0.21999999999999997 
+
+
+
+
+
+
+-----------------------------------------------------------------------
+
+Process finished with exit code 0
+
+-----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
